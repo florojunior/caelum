@@ -1,0 +1,35 @@
+
+p	{
+		line-height: 15px;	/*	tamanho	da	altura	de	cada	linha	*/
+		letter-spacing: 3px;	/*	tamanho	do	espaço	entre	cada	letra	*/
+		word-spacing: 5px;	/*	tamanho	do	espaço	entre	cada	palavra	*/
+		text-indent: 30px;	/*	tamanho	da	margem	da	primeira	linha	do	texto	*/
+		color:	blue;	
+		background-color:	yellow;
+}
+
+h1	{
+		font-family:	serif;
+}
+
+h1	{
+		background-image:	url(img/sobre-background.jpg);
+}
+
+h2	{
+		font-family:	sans-serif;
+}
+p	{
+		font-family:	monospace;
+}
+
+body	{
+		font-family: "Arial",	"Helvetica",	sans-serif;
+		background: gold;
+}
+
+body	{
+		border-color:	red;
+		border-style:	solid;
+		border-width: 1px;
+}
